@@ -545,7 +545,7 @@ img {
 
 .sec-title h5{
   display: block;
-  font-size: 40px;
+  font-size: 25px;
   line-height: 26px;
   font-weight: 500;
   margin-bottom: 13px;
@@ -5209,6 +5209,9 @@ div#mCSB_1_container{
   margin-bottom: 15px;
 }
 
+.form-group .error{
+
+}
 .contact-section .form-inner input[type="text"],
 .contact-section .form-inner input[type="email"],
 .contact-section .form-inner input[type="tel"],
@@ -5761,7 +5764,7 @@ div#mCSB_1_container{
 .image_block_2 .image-box{
   position: relative;
   display: block;
-  padding-left: 130px;
+  /* padding-left: 130px; */
 }
 
 .image_block_2 .image-box .image{
@@ -5934,10 +5937,11 @@ div#mCSB_1_container{
 
 .testimonial-block-three .inner-box h4{
   display: block;
-  font-size: 20px;
-  line-height: 36px;
+  font-size: 13px;
+  line-height: 25px;
   font-weight: 500;
   margin-bottom: 19px;
+  text-align: justify;
 }
 
 .testimonial-block-three .inner-box h5{
