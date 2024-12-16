@@ -5212,6 +5212,9 @@ div#mCSB_1_container{
 .form-group .error{
 
 }
+.form-group label.error{
+  color: red;
+}
 .contact-section .form-inner input[type="text"],
 .contact-section .form-inner input[type="email"],
 .contact-section .form-inner input[type="tel"],
