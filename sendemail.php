@@ -2,9 +2,9 @@
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
     // Get form data
     $username = htmlspecialchars(trim($_POST['username']));
+    $subject = htmlspecialchars(trim($_POST['subject']));
     $email = htmlspecialchars(trim($_POST['email']));
     $phone = htmlspecialchars(trim($_POST['phone']));
-    $subject = htmlspecialchars(trim($_POST['subject']));
     $message = htmlspecialchars(trim($_POST['message']));
 
     // Validate email
@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     }
 
     // Email details
-    $to = "your-email@example.com"; // Replace with your email address
+    $to = "samirvparikh@gmail.com, contact@expertsrcm.com"; // Replace with your email address
     $email_subject = "New Contact Form Submission: " . $subject;
     $email_body = "You have received a new message from your website contact form.\n\n" .
                   "Name: $username\n" .
