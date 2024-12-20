@@ -70,7 +70,7 @@
 
 body {
   font-size:16px;
-  color:#93959e;
+  color:#595a5c;
   line-height:26px;
   font-weight:400;
   background:#ffffff;
@@ -173,7 +173,7 @@ textarea:focus{
 p{
   position: relative;
   font-family: 'Rubik', sans-serif;
-  color: #93959e;
+  color: #595a5c;
   font-weight: 400;
   margin: 0px;
   transition: all 500ms ease;
@@ -407,7 +407,7 @@ img {
 }
 
 .theme-btn.btn-two{
-  color: #93959e;
+  color: #595a5c;
   border: 1px solid #e5e7ec;
 }
 
@@ -1938,7 +1938,7 @@ div#mCSB_1_container{
   font-size: 50px;
   line-height: 50px;
   margin-bottom: 12px;
-  color: #93959e;
+  color: #595a5c;
   transition: all 500ms ease;
 }
 
@@ -2233,7 +2233,7 @@ div#mCSB_1_container{
   font-size: 14px;
   line-height: 24px;
   font-weight: 500;
-  color: #93959e;
+  color: #595a5c;
   margin-bottom: 0px;
 }
 
@@ -2299,7 +2299,7 @@ div#mCSB_1_container{
   width: 33.333%;
   font-size: 14px;
   line-height: 24px;
-  color: #93959e;
+  color: #595a5c;
   padding-left: 28px;
 }
 
@@ -2519,7 +2519,7 @@ div#mCSB_1_container{
   font-size: 14px;
   line-height: 24px;
   font-weight: 500;
-  color: #93959e;
+  color: #595a5c;
   margin-bottom: 0px;
 }
 
@@ -2584,7 +2584,7 @@ div#mCSB_1_container{
   float: left;
   font-size: 14px;
   line-height: 24px;
-  color: #93959e;
+  color: #595a5c;
   padding-left: 28px;
   font-weight: 500;
   margin-right: 30px;
@@ -2969,7 +2969,7 @@ div#mCSB_1_container{
 
 .place-block-one .inner-box .text p{
   font-size: 14px;
-  color: #93959e;
+  color: #595a5c;
 }
 
 
@@ -3113,7 +3113,7 @@ div#mCSB_1_container{
   display: block;
   font-size: 14px;
   font-weight: 500;
-  color: #93959e;
+  color: #595a5c;
   margin-bottom: 11px;
 }
 
@@ -3321,7 +3321,7 @@ div#mCSB_1_container{
   display: inline-block;
   float: left;
   margin-right: 30px;
-  color: #93959e;
+  color: #595a5c;
   font-size: 15px;
   padding: 7px 0px;
 }
@@ -3491,7 +3491,7 @@ div#mCSB_1_container{
   display: block;
   font-size: 14px;
   line-height: 16px;
-  color: #93959e;
+  color: #595a5c;
   transition: all 500ms ease;
 }
 
@@ -4269,7 +4269,7 @@ div#mCSB_1_container{
 }
 
 .chooseus-section.alternate-2 .chooseus-block-one .inner-box p{
-  color: #93959e;
+  color: #595a5c;
 }
 
 .chooseus-section.alternate-2 .chooseus-block-one .inner-box:before{
@@ -4446,7 +4446,7 @@ div#mCSB_1_container{
   float: right;
   display: inline-block;
   font-size: 15px;
-  color: #93959e;
+  color: #595a5c;
   transition: all 500ms ease;
 }
 
@@ -4607,7 +4607,7 @@ div#mCSB_1_container{
   width: 100%;
   height: 60px;
   font-size: 16px;
-  color: #93959e;
+  color: #595a5c;
   padding: 10px 20px;
   transition: all 500ms ease;
 }
@@ -4871,11 +4871,12 @@ div#mCSB_1_container{
   position: relative;
   display: block;
   background-color: #ffffff;
-  padding: 96px 55px 65px 55px;
+  padding: 60px 30px 30px 30px;
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 0 10px 30px 0px rgb(0 0 0 / 10%);
   transition: all 500ms ease;
+  text-align: justify;
 }
 
 .feature-block-two .inner-box:hover{
@@ -5134,7 +5135,7 @@ div#mCSB_1_container{
 
 .pricing-block-one .pricing-table .table-header h2 span{
   font-size: 18px;
-  color: #93959e;
+  color: #595a5c;
 }
 
 .pricing-block-one .pricing-table .table-content{
@@ -5176,7 +5177,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 17px;
   line-height: 26px;
-  color: #93959e;
+  color: #595a5c;
   font-weight: 500px;
   text-align: center;
   padding: 15px 48px;
@@ -5466,7 +5467,7 @@ div#mCSB_1_container{
   border-radius: 5px;
   text-align: center;
   font-size: 16px;
-  color: #93959e;
+  color: #595a5c;
   cursor: pointer;
   background: transparent;
   margin-right: 10px;
@@ -5492,12 +5493,12 @@ div#mCSB_1_container{
   height: 40px;
   line-height: 40px;
   font-size: 16px;
-  color: #93959e;
+  color: #595a5c;
   text-transform: none;
 }
 
 .item-shorting .nice-select:after{
-  color: #93959e;
+  color: #595a5c;
 }
 
 .page-content .search-field-section .tabs-content .tab-btns{
@@ -5979,7 +5980,7 @@ div#mCSB_1_container{
   display: inline-block;
   float: left;
   margin-right: 30px;
-  color: #93959e;
+  color: #595a5c;
   font-size: 15px;
   padding: 7px 0px;
 }
@@ -6257,7 +6258,7 @@ div#mCSB_1_container{
   border: 1px solid #e5e7ec;
   border-radius: 5px;
   font-size: 14px;
-  color: #93959e;
+  color: #595a5c;
   padding: 10px 20px;
   transition: all 500ms ease;
 }
@@ -6268,7 +6269,7 @@ div#mCSB_1_container{
 }
 
 .default-sidebar .agents-search .form-group .nice-select:after{
-  color: #93959e;
+  color: #595a5c;
 }
 
 .default-sidebar .agents-search .form-group button{
@@ -6305,7 +6306,7 @@ div#mCSB_1_container{
   position: relative;
   display: block;
   font-size: 14px;
-  color: #93959e;
+  color: #595a5c;
   padding-left: 23px;
 }
 
@@ -6496,7 +6497,7 @@ div#mCSB_1_container{
   position: relative;
   display: inline-block;
   font-size: 14px;
-  color: #93959e;
+  color: #595a5c;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -6755,7 +6756,7 @@ div#mCSB_1_container{
   padding-left: 25px;
   font-size: 15px;
   line-height: 40px;
-  color: #93959e;
+  color: #595a5c;
   font-weight: 500;
   margin-right: 30px;
   cursor: pointer;
@@ -6848,7 +6849,7 @@ div#mCSB_1_container{
   border: 1px solid #e5e7ec;
   border-radius: 5px;
   font-size: 14px;
-  color: #93959e;
+  color: #595a5c;
   padding: 10px 20px;
   box-shadow: none;
   outline: none;
@@ -6905,7 +6906,7 @@ div#mCSB_1_container{
   position: relative;
   display: inline-block;
   font-size: 17px;
-  color: #93959e;
+  color: #595a5c;
   padding-right: 15px;
   margin-right: 5px;
 }
@@ -6916,7 +6917,7 @@ div#mCSB_1_container{
 }
 
 .page-title-two .bread-crumb li a{
-  color: #93959e;
+  color: #595a5c;
 }
 
 .page-title-two .bread-crumb li a:hover{
@@ -7982,7 +7983,7 @@ div#mCSB_1_container{
   line-height: 50px;
   text-align: center;
   font-size: 16px;
-  color: #93959e;
+  color: #595a5c;
   border-right: 1px solid #e5e7ec;
   background: transparent;
   z-index: 1;
@@ -8251,7 +8252,7 @@ div#mCSB_1_container{
   display: block;
   padding-left: 20px;
   font-size: 16px;
-  color: #93959e;
+  color: #595a5c;
   line-height: 30px;
   margin: 0px;
 }
@@ -8310,7 +8311,7 @@ div#mCSB_1_container{
   height: 42px;
   border-bottom: 1px solid #e5e7ec;
   font-size: 14px;
-  color: #93959e;
+  color: #595a5c;
   padding: 10px 0px;
   box-shadow: none;
   outline: none;
@@ -8440,7 +8441,7 @@ div#mCSB_1_container{
   padding: 20px 20px;
   font-size: 18px;
   line-height: 28px;
-  color: #93959e;
+  color: #595a5c;
   font-weight: 500;
   border-right: 1px solid #e5e7ec;
 }
@@ -8617,7 +8618,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 15px;
   line-height: 26px;
-  color: #93959e;
+  color: #595a5c;
   font-weight: 500;
   text-align: center;
   cursor: pointer;
@@ -8760,7 +8761,7 @@ div#mCSB_1_container{
   padding-left: 50px;
   font-size: 16px;
   line-height: 35px;
-  color: #93959e;
+  color: #595a5c;
   font-weight: 500;
   cursor: pointer;
   transition: all 500ms ease;
@@ -8850,7 +8851,7 @@ div#mCSB_1_container{
 .myprofile-section .upload-box label {
   position: relative;
   display: inline-block;
-  color: #93959e;
+  color: #595a5c;
   font-size: 14px;
   cursor: pointer;
 }
@@ -8923,7 +8924,7 @@ div#mCSB_1_container{
   padding-left: 22px;
   margin-right: 0px;
   margin-bottom: 0;
-  color: #93959e;
+  color: #595a5c;
   font-size: 15px;
   line-height: 30px;
   cursor: pointer;
@@ -9381,7 +9382,7 @@ div#mCSB_1_container{
   display: block;
   font-size: 16px;
   line-height: 26px;
-  color: #93959e;
+  color: #595a5c;
   font-weight: 500;
   padding-left: 15px;
 }
@@ -9461,7 +9462,7 @@ div#mCSB_1_container{
 .blog-sidebar .post-widget .post .post-date{
   position: relative;
   display: block;
-  color: #93959e;
+  color: #595a5c;
   font-size: 15px;
   margin: 0px;
 }
@@ -9486,7 +9487,7 @@ div#mCSB_1_container{
   position: relative;
   display: inline-block;
   font-size: 16px;
-  color: #93959e;
+  color: #595a5c;
   border: 1px solid #e5e7ec;
   border-radius: 5px;
   text-align: center;
@@ -9593,7 +9594,7 @@ div#mCSB_1_container{
   position: relative;
   display: inline-block;
   font-size: 16px;
-  color: #93959e;
+  color: #595a5c;
   border: 1px solid #e5e7ec;
   border-radius: 5px;
   text-align: center;
@@ -9697,7 +9698,7 @@ div#mCSB_1_container{
 .blog-details-content .comments-area .comment .text a{
   font-size: 16px;
   font-weight: 500;
-  color: #93959e;
+  color: #595a5c;
 }
 
 .blog-details-content .comments-area .comment .text a i{
@@ -9857,7 +9858,7 @@ div#mCSB_1_container{
   font-size: 16px;
   font-weight: 400;
   border: 1px solid #e5e7ec;
-  color: #93959e;
+  color: #595a5c;
   border-radius: 50%;
   text-align: center;
   cursor: pointer;
