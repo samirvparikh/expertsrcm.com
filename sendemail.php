@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     }
 
     // Email details
-    $to = "samirvparikh@gmail.com, contact@expertsrcm.com"; // Replace with your email address
+    $to = "parikh83@gmail.com, contact@expertsrcm.com"; // Replace with your email address
     $email_subject = "New Contact Form Submission: " . $subject;
     $email_body = "You have received a new message from your website contact form.\n\n" .
                   "Name: $username\n" .
