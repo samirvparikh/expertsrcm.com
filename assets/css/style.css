@@ -8184,11 +8184,12 @@ div#mCSB_1_container{
 }
 
 .feature-style-three.service-page{
-  padding: 120px 0px 90px 0px;
+  padding: 80px 0px 80px 0px;
 }
 
 .feature-style-three.service-page .feature-block-two .inner-box{
-  margin-bottom: 30px;
+  margin-bottom: 50px;
+  height: 390px;
 }
 
 .feature-style-three.service-page .feature-block:nth-child(3) .feature-block-two .inner-box .icon-box {
